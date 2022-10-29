@@ -1,0 +1,14 @@
+{
+  "name": "prograivprueba1",
+  "version": "0.0.1",
+  "description": "Prueba 1 de Progra4. Pagina para mostrar tabla de Multiplicacion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Barahona",
+  "license": "ISC",
+  "dependencies": {
+    "npm-matematicas": "^1.0.1"
+  }
+}
