@@ -12,6 +12,7 @@ const yargs = require('yargs')
         console.log("multiplicando:",yargs.argv.a)
         console.log("multiplicador:",b)
         console.log("Producto:",respuesta)
+        console.log("\n")
     }
 
 console.log(yargs.argv)
