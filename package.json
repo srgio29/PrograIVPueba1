@@ -9,6 +9,7 @@
   "author": "Sergio Barahona",
   "license": "ISC",
   "dependencies": {
-    "npm-matematicas": "^1.0.1"
+    "npm-matematicas": "^1.0.1",
+    "yargs": "^17.6.0"
   }
 }
